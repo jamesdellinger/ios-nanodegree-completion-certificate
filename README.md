@@ -2,9 +2,9 @@
 
 # Udacity iOS Developer Nanodegree
 
-![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
-
 *Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad.*
+
+![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
 ## Graduation Certificate
 
