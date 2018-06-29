@@ -18,7 +18,7 @@ This degree's curriculum covers the following eight topics:
 
 ### 1. Design and Build Your Own App from Scratch
 
-Capstone Project: ['I Can Cook' App](https://github.com/jamesdellinger/ios-nanodegree-final-project-app)
+Final Project: ['I Can Cook' App](https://github.com/jamesdellinger/ios-nanodegree-final-project-app)
 
 ### 2. Concurrency, Data Persistence, and Core Data
 
