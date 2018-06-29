@@ -4,11 +4,11 @@
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
-*Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad*
+*Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad.*
 
 ## Graduation Certificate
 
-This repository contains my [graduation certificate]() for Udacity's iOS Developer Nanodegree.
+This repository contains my [graduation certificate](https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.pdf) for Udacity's iOS Developer Nanodegree.
 
 My completion may be verified at Udacity: https://confirm.udacity.com/AATJGG7Q
 
