@@ -6,7 +6,7 @@
 ## Graduation Certificate
 This repository contains my [graduation certificate](https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.pdf) for Udacity's [iOS Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003).
 
-<img src="https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.pdf" alt="iOS Developer Nanodegree Certificate" height="400" >
+<img src="https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.png" alt="iOS Developer Nanodegree Certificate" height="400" >
 
 My completion of this degree may be verified at Udacity: https://confirm.udacity.com/AATJGG7Q
 
