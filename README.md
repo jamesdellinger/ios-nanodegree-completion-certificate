@@ -1,10 +1,12 @@
 # Udacity iOS Developer Nanodegree
-*Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad.*
+*Mastering the Swift programming language, and creating a portfolio of iOS apps for iPhone and iPad.*
 
 <img src="https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/iosndlogo.jpg" alt="iOS Developer Nanodegree logo" height="100" >
 
 ## Graduation Certificate
 This repository contains my [graduation certificate](https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.pdf) for Udacity's [iOS Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003).
+
+<img src="https://github.com/jamesdellinger/ios-nanodegree-graduation-certificate/blob/master/ios-nanodegree-graduation-certificate-james-dellinger.pdf" alt="iOS Developer Nanodegree Certificate" height="400" >
 
 My completion of this degree may be verified at Udacity: https://confirm.udacity.com/AATJGG7Q
 
