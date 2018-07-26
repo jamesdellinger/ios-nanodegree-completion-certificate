@@ -11,6 +11,8 @@ This repository contains my [graduation certificate](https://github.com/jamesdel
 My completion of this degree may be verified at Udacity: https://confirm.udacity.com/AATJGG7Q
 
 ## Degree Topics
+This degree's [curriculum](https://github.com/jamesdellinger/machine_learning_nanodegree_graduation_certificate/blob/master/syllabus-udacity-ios-developer-nanodegree.pdf) covers the following eight topics:
+
 | Topic | Name | Project |
 |:-----:|------|---------|
 | 1.    | Designing and Implementing a Complete App from Scratch | [I Can Cook App](https://github.com/jamesdellinger/ios-nanodegree-final-project-app) |
